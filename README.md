@@ -4,7 +4,8 @@
 <h3 align="center">IT Undergraduate | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  Passionate about building web applications and learning modern technologies.
+  Passionate about learning software development
+  and building my technical skills.
 </p>
 
 ---
@@ -13,29 +14,52 @@
 
 - 🎓 IT Undergraduate at SLIIT
 - 💻 Interested in Full Stack Development
-- 🌱 Currently improving my skills in Java, Spring Boot and Web Development
-- 🚀 Interested in building practical software solutions
-- 📍 Based in Sri Lanka
+- 🌱 Currently learning Java, Spring Boot and Web Development
+- 🚀 Exploring software development technologies
+- 🎯 Aspiring to become a Full Stack Developer
+- 📍 Sri Lanka
+
+---
 
 ### 🛠️ Technical Skills
 
-- **Programming:** Java, Python
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Java, Spring Boot
-- **Database:** SQL
-- **Tools:** Git, GitHub
+**Programming Languages**
+- Java (Beginner)
+- Python (Beginner)
 
-### 📌 My Projects
+**Frontend Development**
+- HTML (Beginner)
+- CSS (Beginner)
+- JavaScript (Beginner)
 
-Projects coming soon! 🚀
+**Backend Development**
+- Spring Boot (Beginner)
+
+**Database**
+- SQL (Beginner)
+
+**Tools**
+- Git (Beginner)
+- GitHub (Beginner)
+
+---
+
+### 📚 Currently Learning
+
+- Full Stack Web Development
+- Java and Spring Boot
+- Frontend Development
+- Database Management
+- Version Control with Git and GitHub
+
+---
 
 ### 🎯 Career Goal
 
-To become a skilled Full Stack Developer by continuously learning, building projects and gaining practical industry experience.
+My goal is to become a skilled Full Stack Developer by continuously learning, improving my technical knowledge, and gaining practical experience through real-world projects.
 
 ---
 
 <p align="center">
-  Thank you for visiting my profile! 😊
+  <b>Learning Today, Building Tomorrow. 🚀</b>
 </p>
-
